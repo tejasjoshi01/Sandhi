@@ -84,3 +84,4 @@ I have identified 9 categories of job-seekers to make the platform more intuitiv
 ![four](assets/screen4.png)
 ![five](assets/screen5.png)
 ![six](assets/screen6.png)
+![seven](assets/screen7.jpeg)
