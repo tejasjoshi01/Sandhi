@@ -1,0 +1,6 @@
+[submodule "sandhi_backend"]
+	path = sandhi_backend
+	url = https://github.com/tejasjoshi01/sandhi_backend.git
+[submodule "sandhi_frontend"]
+	path = sandhi_frontend
+	url = https://github.com/tejasjoshi01/sandhi_frontend
