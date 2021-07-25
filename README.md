@@ -37,7 +37,6 @@ I have identified 9 categories of job-seekers to make the platform more intuitiv
 2. Update Profile
 3. Apply on jobs - just by clicking - as simple as that.
 4. The applicant gets an SMS on his/her phone number after applying to a job.
-   ![SMS TO APPLICANT]()
 
 ### For Job Poster
 
